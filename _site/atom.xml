@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Sidey</title>
+ <title>Teyenk</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-07-16T15:18:40-07:00</updated>
+ <updated>2020-07-16T15:28:54-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -13,7 +13,7 @@
 
  
  <entry>
-   <title>Արդի Հայ Գրականութիւն</title>
+   <title>Արդի Հայ Գրականութիւն Ա</title>
    <link href="http://localhost:4000/2017/11/17/%D5%A1%D6%80%D5%A4%D5%AB-%D5%B0%D5%A1%D5%B5-%D5%A3%D6%80%D5%A1%D5%AF%D5%A1%D5%B6%D5%B8%D6%82%D5%A9%D5%AB%D6%82%D5%B6-%D5%A1"/>
    <updated>2017-11-17T00:00:00-08:00</updated>
    <id>http://localhost:4000/2017/11/17/Արդի-Հայ-Գրականութիւն-Ա</id>

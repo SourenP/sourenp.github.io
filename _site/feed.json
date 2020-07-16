@@ -1,9 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Sidey",
+    "title": "Teyenk",
     "home_page_url": "http://localhost:4000/",
     "feed_url": "http://localhost:4000/feed.json",
-    "description": "Simple and minimalistic jekyll blogging theme.",
+    "description": "Armenian Book Club",
     "icon": "http://localhost:4000/apple-touch-icon.png",
     "favicon": "http://localhost:4000/favicon.ico",
     "expired": false,
@@ -14,8 +14,8 @@
     
         {
             "id": "http://localhost:4000/2017/11/17/%D5%A1%D6%80%D5%A4%D5%AB-%D5%B0%D5%A1%D5%B5-%D5%A3%D6%80%D5%A1%D5%AF%D5%A1%D5%B6%D5%B8%D6%82%D5%A9%D5%AB%D6%82%D5%B6-%D5%A1",
-            "title": "Արդի Հայ Գրականութիւն",
-            "summary": "Արդի Հայ Գրականութիւն",
+            "title": "Արդի Հայ Գրականութիւն Ա",
+            "summary": "Արդի Հայ Գրականութիւն Ա",
             "content_text": "Այս անքամ պիտի «Արդի Հայ Գրականութիւն» գիրքեն Միսաք Մեծարենց եւ Ռուբեն Զարդարեան կարթանք։ Բուն նիւթէն առաջ իրենց կենսագրութեան մասին կրուած է, եթե հետաքրքրուած էգ։Ինչ- Միսաք Մեծարենց- Ռուբեն ԶարդարեանՈւրՍան ՖրանցիսկոԵրբՆոյեմբեր 19-ին, ժամը 6-ին",
             "content_html": "<p>Այս անքամ պիտի «Արդի Հայ Գրականութիւն» գիրքեն Միսաք Մեծարենց եւ Ռուբեն Զարդարեան կարթանք։ Բուն նիւթէն առաջ իրենց կենսագրութեան մասին կրուած է, եթե հետաքրքրուած էգ։</p><p><strong>Ինչ</strong></p><p>- <a href=\"/assets/files/Արդի Հայ Գրականութիւն/Միսաք Մեծարենց.pdf\">Միսաք Մեծարենց</a></p><p>- <a href=\"/assets/files/Արդի Հայ Գրականութիւն/Ռուբեն Զարդարեան.pdf\">Ռուբեն Զարդարեան</a></p><p><strong>Ուր</strong></p><p>Սան Ֆրանցիսկո</p><p><strong>Երբ</strong></p><p>Նոյեմբեր 19-ին, ժամը 6-ին</p>",
             "url": "http://localhost:4000/2017/11/17/%D5%A1%D6%80%D5%A4%D5%AB-%D5%B0%D5%A1%D5%B5-%D5%A3%D6%80%D5%A1%D5%AF%D5%A1%D5%B6%D5%B8%D6%82%D5%A9%D5%AB%D6%82%D5%B6-%D5%A1",
