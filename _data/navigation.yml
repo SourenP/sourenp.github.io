@@ -1,9 +1,7 @@
 links:
-- title: Writing
+- title: Կարդալիք
   url: /
-- title: About
+- title: Մասին
   url: /about
-- title: Search
+- title: Որոնել
   url: /search
-- title: Rss
-  url: /atom.xml
