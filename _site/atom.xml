@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Teyenk</title>
+ <title>Թէյենք</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-07-16T15:28:54-07:00</updated>
+ <updated>2020-07-16T15:41:42-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -21,9 +21,9 @@
 
 &lt;p&gt;&lt;strong&gt;Ինչ&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;- &lt;a href=&quot;/assets/files/Արդի Հայ Գրականութիւն/Միսաք Մեծարենց.pdf&quot;&gt;Միսաք Մեծարենց&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;- &lt;a href=&quot;/assets/files/Արդի%20Հայ%20Գրականութիւն/Միսաք%20Մեծարենց.pdf&quot;&gt;Միսաք Մեծարենց&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;- &lt;a href=&quot;/assets/files/Արդի Հայ Գրականութիւն/Ռուբեն Զարդարեան.pdf&quot;&gt;Ռուբեն Զարդարեան&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;- &lt;a href=&quot;/assets/files/Արդի%20Հայ%20Գրականութիւն/Ռուբեն%20Զարդարեան.pdf&quot;&gt;Ռուբեն Զարդարեան&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Ուր&lt;/strong&gt;&lt;/p&gt;
 
