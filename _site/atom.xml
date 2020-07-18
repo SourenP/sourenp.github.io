@@ -4,13 +4,171 @@
  <title>Թէյենք</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-07-16T21:28:22-07:00</updated>
+ <updated>2020-07-17T21:25:47-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Երիտասարդ Գրողներ Դ</title>
+   <link href="http://localhost:4000/2019/02/25/%D5%A5%D6%80%D5%AB%D5%BF%D5%A1%D5%BD%D5%A1%D6%80%D5%A4-%D5%A3%D6%80%D5%B8%D5%B2%D5%B6%D5%A5%D6%80-%D5%A4"/>
+   <updated>2019-02-25T00:00:00-08:00</updated>
+   <id>http://localhost:4000/2019/02/25/Երիտասարդ-Գրողներ-Դ</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;Ինչ&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/files/Աստղիկ%20Բաղդասարյան/Հեքիաթ%20Ամենագեեղեցիկ%20Թռչունի%20Մասին.pdf&quot;&gt;«Հեքիաթ Ամենագեեղեցիկ Թռչունի Մասին» - Աստղիկ Բաղդասարյան&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/files/Անի%20Մաղաքյան/Արաջնեկը.pdf&quot;&gt;«Արաջնեկը» - Անի Մաղաքյան&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/files/Ռազմիկ%20Գրիգորյան/Ժամանակը%20Մաշված%20Գոգնոցի%20Գրպանում.pdf&quot;&gt;«Ժամանակը Մաշված Գոգնոցի Գրպանում» - Ռազմիկ Գրիգորյան&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Երբ&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Փետրվարի 25ին&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ուր&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Նյու Յորք&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Երիտասարդ Գրողներ Գ</title>
+   <link href="http://localhost:4000/2019/02/18/%D5%A5%D6%80%D5%AB%D5%BF%D5%A1%D5%BD%D5%A1%D6%80%D5%A4-%D5%A3%D6%80%D5%B8%D5%B2%D5%B6%D5%A5%D6%80-%D5%A3"/>
+   <updated>2019-02-18T00:00:00-08:00</updated>
+   <id>http://localhost:4000/2019/02/18/Երիտասարդ-Գրողներ-Գ</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;Ինչ&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/files/Լուսինե%20Պեետրոսյան/Ըստ%20Օրացույցի.pdf&quot;&gt;«Ըստ Օրացույցի»- Լուսինե Պեետրոսյան&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/files/Անրի%20Գրիգորյան/Մորս%20Ձկնիկները.pdf&quot;&gt;«Մորս Ձկնիկները» - Անրի Գրիգորյան&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Երբ&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Փետրվարի 18ին&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ուր&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Նյու Յորք&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Երիտասարդ Գրողներ Բ</title>
+   <link href="http://localhost:4000/2019/02/04/%D5%A5%D6%80%D5%AB%D5%BF%D5%A1%D5%BD%D5%A1%D6%80%D5%A4-%D5%A3%D6%80%D5%B8%D5%B2%D5%B6%D5%A5%D6%80-%D5%A2"/>
+   <updated>2019-02-04T00:00:00-08:00</updated>
+   <id>http://localhost:4000/2019/02/04/Երիտասարդ-Գրողներ-Բ</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;Ինչ&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/files/Անի%20Հովաննիսյան/Թշնամու%20Ձայնը.pdf&quot;&gt;«Թշնամու Ձայնը» - Անի Հովաննիսյան&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/files/Անրի%20Գրիգորյան/Դմբո%20Ջոյս.pdf&quot;&gt;«Դմբո Ջոյս» - Անրի Գրիգորյան&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/files/Մանուշակ%20Քոչարյան/Մատուցող.pdf&quot;&gt;«Մատուցող» - Մանուշակ Քոչարյան&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Երբ&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Փետրվարի 4ին&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ուր&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Նյու Յորք&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Երիտասարդ Գրողներ Ա</title>
+   <link href="http://localhost:4000/2019/01/29/%D5%A5%D6%80%D5%AB%D5%BF%D5%A1%D5%BD%D5%A1%D6%80%D5%A4-%D5%A3%D6%80%D5%B8%D5%B2%D5%B6%D5%A5%D6%80-%D5%A1"/>
+   <updated>2019-01-29T00:00:00-08:00</updated>
+   <id>http://localhost:4000/2019/01/29/Երիտասարդ-Գրողներ-Ա</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;Ինչ&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/files/Գրիգ/Մի%20Մարդու%20Քաղաքը%20եւ%20Ագռավները%20.pdf&quot;&gt;«Մի Մարդու Քաղաքը եւ Ագռավները» - Գրիգ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/files/Մհեր%20Բեյլերյան/Կեղեքիչները.pdf&quot;&gt;«Կեղեքիչները» - Մհեր Բեյլերյան&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Երբ&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Հունվարի 29ին&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ուր&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Նյու Յորք&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Շիրվանզադե Ա</title>
+   <link href="http://localhost:4000/2019/01/22/%D5%B7%D5%AB%D6%80%D5%BE%D5%A1%D5%B6%D5%A6%D5%A1%D5%A4%D5%A5-%D5%A1"/>
+   <updated>2019-01-22T00:00:00-08:00</updated>
+   <id>http://localhost:4000/2019/01/22/Շիրվանզադե-Ա</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;Ինչ&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/files/Շիրվանզադե/Արտիստը.pdf&quot;&gt;«Արտիստը» - Շիրվանզադե&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Երբ&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Հունվարի 22ին&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ուր&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Նյու Յորք&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>հեքիաթներ Ա</title>
+   <link href="http://localhost:4000/2018/11/04/%D5%B0%D5%A5%D6%84%D5%AB%D5%A1%D5%A9%D5%B6%D5%A5%D6%80-%D5%A1"/>
+   <updated>2018-11-04T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2018/11/04/հեքիաթներ-Ա</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;Ինչ&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/files/Հովհաննես%20Թումանյան/Ոսկու%20Կարասը.txt&quot;&gt;«Ոսկու Կարասը» - Հովհաննես Թումանյան&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/files/Հովհաննես%20Թումանյան/Անհաղթ%20աքլորը.txt&quot;&gt;«Անհաղթ Աքլորը» - Հովհաննես Թումանյան&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/files/Հովհաննես%20Թումանյան/Անբան%20Հուռին.txt&quot;&gt;«Անբան Հուռին» - Հովհաննես Թումանյան&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/files/Վախթանգ%20Անանյան/Պատմվածքներ.pdf&quot;&gt;«Անտառին Անսովոր Մարդը» - Վախթանգ Անանյան&lt;/a&gt;  (էջ 67)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Երբ&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Կիրակի՝ Փետրվարի 10ին, ժամը 5ին։&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ուր&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Սան Ֆրանցիսկո&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Պատմվածքներ Ա</title>
+   <link href="http://localhost:4000/2018/09/09/%D5%BA%D5%A1%D5%BF%D5%B4%D5%BE%D5%A1%D5%AE%D6%84%D5%B6%D5%A5%D6%80-%D5%A1"/>
+   <updated>2018-09-09T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2018/09/09/Պատմվածքներ-Ա</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;Ինչ&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/files/Հրանտ%20Մաթևոսյան/Մեր%20վազքը.txt&quot;&gt;«Մեր վազքը» - Հրանտ Մաթևոսյան&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/files/Լևոն%20Խեչոյան/Հողի%20դողը.txt&quot;&gt;«Հողի դողը» - Լևոն Խեչոյան&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/files/Վախթանգ%20Անանյան/Պատմվածքներ.pdf&quot;&gt;«Աայն Մասին, Թե Ինչու Եմ Սիրում Որսորդությունը Եվ Թե Ինչպես Որսորդ Դարձա» - Վախթանգ Անանյան&lt;/a&gt; (էջ 9)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Երբ&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Կիրակի, Սեպտեմբեր 9ին, Ժամը 6ին&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ուր&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Նյու Յորք&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Հակոբ Պարոնեանին Ա</title>
@@ -21,13 +179,14 @@
 
 &lt;p&gt;&lt;strong&gt;Ինչ&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;- &lt;a href=&quot;/assets/files/Հակոբ%20Պարոնեան/Մեծապատիի%20Մուրացկանները.pdf&quot;&gt;Մեծապատիւ Մուրացկանները&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;- &lt;a href=&quot;/assets/files/Հակոբ%20Պարոնեան/Քաղաքավարութեան%20Վնասները%20(հատվածներ).pdf&quot;&gt;Քաղաքավարութեան Վնասները (հատվածներ)&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/files/Հակոբ%20Պարոնեան/Մեծապատիի%20Մուրացկանները.pdf&quot;&gt;«Մեծապատիւ Մուրացկանները»&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/files/Հակոբ%20Պարոնեան/Քաղաքավարութեան%20Վնասները%20(հատվածներ).pdf&quot;&gt;«Քաղաքավարութեան Վնասները»&lt;/a&gt; (հատվածներ)&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;Երբ&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Փետրվարի 11-ին, ժամը 6-ին&lt;/p&gt;
+&lt;p&gt;Փետրվարի 11ին, ժամը 6ին&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Ուր&lt;/strong&gt;&lt;/p&gt;
 
@@ -44,13 +203,14 @@
 
 &lt;p&gt;&lt;strong&gt;Ինչ&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;- &lt;a href=&quot;/assets/files/Արդի%20Հայ%20Գրականութիւն/Միսաք%20Մեծարենց.pdf&quot;&gt;Միսաք Մեծարենց&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;- &lt;a href=&quot;/assets/files/Արդի%20Հայ%20Գրականութիւն/Ռուբեն%20Զարդարեան.pdf&quot;&gt;Ռուբեն Զարդարեան&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/files/Արդի%20Հայ%20Գրականութիւն/Միսաք%20Մեծարենց.pdf&quot;&gt;Միսաք Մեծարենց&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/files/Արդի%20Հայ%20Գրականութիւն/Ռուբեն%20Զարդարեան.pdf&quot;&gt;Ռուբեն Զարդարեան&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;Երբ&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Նոյեմբեր 19-ին, ժամը 6-ին&lt;/p&gt;
+&lt;p&gt;Նոյեմբեր 19ին, ժամը 6ին&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Ուր&lt;/strong&gt;&lt;/p&gt;
 
