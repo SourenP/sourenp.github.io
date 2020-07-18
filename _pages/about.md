@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Մասին
+title: Ինչ
 ---
 
 
