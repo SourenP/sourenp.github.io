@@ -4,13 +4,32 @@
  <title>Թէյենք</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-07-18T09:34:56-07:00</updated>
+ <updated>2020-07-18T17:59:30-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>ֆեմինիզմ Ա</title>
+   <link href="http://localhost:4000/2020/10/03/%D6%86%D5%A5%D5%B4%D5%AB%D5%B6%D5%AB%D5%A6%D5%B4-%D5%A1"/>
+   <updated>2020-10-03T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2020/10/03/ֆեմինիզմ-Ա</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;Ինչ&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Երբ&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ուր&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Առցանցային&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Երիտասարդ Գրողներ Դ</title>
