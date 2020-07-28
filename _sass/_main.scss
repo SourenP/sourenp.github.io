@@ -214,3 +214,23 @@ section {
 figcaption {
     font-size: smaller;
 }
+
+.wj-contact-form input {
+    vertical-align: middle;
+    margin-top: 0.25em;
+    margin-bottom: 0.5em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding: 1em;
+	font-family: noto-sans-armenian, noto-sans;
+    border:1px solid #444;
+    outline-color: #5C92F7;
+    border-radius: 3px;
+    transition: box-shadow .2s ease;
+}
+
+.wj-contact-form input[type="submit"] {
+    background-color: #5C92F7;
+    border: 1px solid #5C92F7;
+    color: #eee;
+}
