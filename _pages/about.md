@@ -9,10 +9,12 @@ title: Ինչ
 - ընթերցումները կը քննարկենք
 - բարձրաձայն միասին կը կարդանք
 - կը բարելաւենք մեր հայերենը
-- մասնակիցներ կերթան կուքան հանդիպումներու մինչեւ
 - միասին կը որոշենք ինչ կարդալ
+- մասնակիցներ կերթան կուքան հանդիպումներու մինչեւ
 
-Հիմնականում կը կարդանք կարճ պատմուածքներ կամ վեպերու հատուածներ, իւրաքանչիւր հանդիպում ինքնուրոյն պահելու համար։
+Իւրաքանչիւր հանդիպում ինքնուրոյն պահելու համար, մեծ մասամբ կը կարդանք կարճ պատմուածքներ կամ վեպերու հատուածներ։
+
+Պիտի փորձենք հանդիպումները հարմարացնել բոլոր ժամանակային գոտիներուն համար, բայց մեծ մասամբ Ամերիկայ կը գտնուինք։
 
 <br />
 
@@ -21,13 +23,15 @@ An online Western and Eastern Armenian book club for beginner and intermediate r
 The meetings are very flexible:
 - we discuss the texts
 - read out loud together
-- imporve our Armenian
-- members come and go between sessions
+- improve our Armenian
 - we decide what to read together
+- members come and go between sessions
 
-We mostly read short stories or segments of novels to keep each session independent.
+To keep each session independent, we mostly read short stories or segments of novels.
 
-For the purpose of practice, all further communication once you join the club will be in Armenian. Don't feel intimidated, we're really friendly :)
+We will try to accommodate all time zones but we are primarily based in America.
+
+For the purpose of practice, once you join the club all further communication will be in Armenian. Don't worry, we're really friendly :)
 
 <br />
 
