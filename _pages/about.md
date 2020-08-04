@@ -16,6 +16,8 @@ title: Ինչ
 
 Պիտի փորձենք հանդիպումներու ժամերը հարմարցնել ժամանակային բոլոր գօտիներուն, բայց մասնակցողներուն մեծամասնութիւնը Միացեալ Նահանգներէն ըլլալուն, մասնաւորաբար այդ երկրին ժամերը նկատի պիտի առնենք:
 
+հարցումներու համար գրել Սուրէնին՝ [souren@papazian.info](mailto:souren@papazian.info)
+
 <br />
 
 An online Western and Eastern Armenian book club for beginner and intermediate readers.
@@ -31,6 +33,8 @@ To keep each session independent, we mostly read short stories or segments of no
 We will try to accommodate all time zones but we are primarily based in the United States.
 
 For the purpose of practice, once you join the club all further communication will be in Armenian. Don't worry, we're really friendly :)
+
+For any questions email Souren: [souren@papazian.info](mailto:souren@papazian.info)
 
 <br />
 
