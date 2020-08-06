@@ -4,7 +4,7 @@
  <title>Թէյենք</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-08-04T09:48:11-07:00</updated>
+ <updated>2020-08-06T15:18:15-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -150,7 +150,7 @@
    <content type="html">&lt;p&gt;&lt;strong&gt;Ինչ&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/assets/files/Հովհաննես%20Թումանյան/Ոսկու%20Կարասը.txt&quot;&gt;«Ոսկու Կարասը» - Հովհաննես Թումանյան&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/files/Հովհաննես%20Թումանյան/Ոսկու%20կարասը.txt&quot;&gt;«Ոսկու Կարասը» - Հովհաննես Թումանյան&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/assets/files/Հովհաննես%20Թումանյան/Անհաղթ%20աքլորը.txt&quot;&gt;«Անհաղթ Աքլորը» - Հովհաննես Թումանյան&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/assets/files/Հովհաննես%20Թումանյան/Անբան%20Հուռին.txt&quot;&gt;«Անբան Հուռին» - Հովհաննես Թումանյան&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/assets/files/Վախթանգ%20Անանյան/Պատմվածքներ.pdf&quot;&gt;«Անտառին Անսովոր Մարդը» - Վախթանգ Անանյան&lt;/a&gt;  (էջ 67)&lt;/li&gt;
