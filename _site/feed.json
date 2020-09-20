@@ -13,19 +13,19 @@
 "items": [
     
         {
-            "id": "http://localhost:4000/2020/10/03/%D6%86%D5%A5%D5%B4%D5%AB%D5%B6%D5%AB%D5%A6%D5%B4-%D5%A1",
-            "title": "ֆեմինիզմ Ա",
-            "summary": "ֆեմինիզմ Ա",
-            "content_text": "Ինչ-Երբ-ՈւրԱռցանցային",
-            "content_html": "<p><strong>Ինչ</strong></p><p>-</p><p><strong>Երբ</strong></p><p>-</p><p><strong>Ուր</strong></p><p>Առցանցային</p>",
-            "url": "http://localhost:4000/2020/10/03/%D6%86%D5%A5%D5%B4%D5%AB%D5%B6%D5%AB%D5%A6%D5%B4-%D5%A1",
+            "id": "http://localhost:4000/2020/09/26/%D5%AA%D5%B8%D5%B2%D5%B8%D5%BE%D6%80%D5%A4%D5%A1%D5%AF%D5%A1%D5%B6-%D5%B0%D5%A5%D6%84%D5%AB%D5%A1%D5%A9%D5%B6%D5%A5%D6%80-%D5%A1",
+            "title": "Ժողովրդական Հեքիաթներ Ա",
+            "summary": "Ժողովրդական Հեքիաթներ Ա",
+            "content_text": "Ինչ  «Օձն ու Ձուկը»ԵրբՍեպտեմբեր 25ին 2020ՈւրԱռցանց",
+            "content_html": "<p><strong>Ինչ</strong></p><ul>  <li><a href=\"/assets/files/Ժողովուրդ/Օձն_ու_Ձուկը.pdf\">«Օձն ու Ձուկը»</a></li></ul><p><strong>Երբ</strong></p><p>Սեպտեմբեր 25ին 2020</p><p><strong>Ուր</strong></p><p>Առցանց</p>",
+            "url": "http://localhost:4000/2020/09/26/%D5%AA%D5%B8%D5%B2%D5%B8%D5%BE%D6%80%D5%A4%D5%A1%D5%AF%D5%A1%D5%B6-%D5%B0%D5%A5%D6%84%D5%AB%D5%A1%D5%A9%D5%B6%D5%A5%D6%80-%D5%A1",
             
             
             
             
             
-            "date_published": "2020-10-03T00:00:00-07:00",
-            "date_modified": "2020-10-03T00:00:00-07:00",
+            "date_published": "2020-09-26T00:00:00-07:00",
+            "date_modified": "2020-09-26T00:00:00-07:00",
             
                 "author": 
                 "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
