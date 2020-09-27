@@ -4,7 +4,7 @@
  <title>Թէյենք</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-09-26T17:31:47-07:00</updated>
+ <updated>2020-09-26T18:00:11-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -14,14 +14,14 @@
  
  <entry>
    <title>Փոքրիկ Իշխանը Ա</title>
-   <link href="http://localhost:4000/2020/10/03/%D6%83%D5%B8%D6%84%D6%80%D5%AB%D5%AF-%D5%AB%D5%B7%D5%AD%D5%A1%D5%B6%D5%A8"/>
-   <updated>2020-10-03T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2020/10/03/Փոքրիկ-Իշխանը</id>
-   <content type="html">&lt;p&gt;&lt;strong&gt;Ինչ&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Առաջին առցանցային հանդիպման համար պիտի կարդանք «Փոքրիկ Իշխանը» թարգմանութեան առաջին գլուխը: Գիտեմ որ շատ հայկական բան մը չէ, բայց կարծեմ որ հաճելի կըլլա ծանոթ բանով մը սկսիլ:&lt;/p&gt;
+   <link href="http://localhost:4000/2020/10/01/%D6%83%D5%B8%D6%84%D6%80%D5%AB%D5%AF-%D5%AB%D5%B7%D5%AD%D5%A1%D5%B6%D5%A8-%D5%A1"/>
+   <updated>2020-10-01T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2020/10/01/Փոքրիկ-Իշխանը-Ա</id>
+   <content type="html">&lt;p&gt;Առաջին առցանցային հանդիպման համար պիտի կարդանք «Փոքրիկ Իշխանը» թարգմանութեան առաջին գլուխը: Գիտեմ որ շատ հայկական բան մը չէ, բայց կարծեմ որ հաճելի կըլլա ծանոթ բանով մը սկսիլ:&lt;/p&gt;
 
 &lt;p&gt;Եթե արագ կարդացիք և հետաքրքիր գտաք, անշուշտ ավելի կ’րնաք կարդալ:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ինչ&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;/assets/files/Թարգմանություններ/Փոքրիկ_Իշխանը.pdf&quot;&gt;«Փոքրիկ Իշխանը»&lt;/a&gt; (&lt;a href=&quot;/assets/files/Թարգմանություններ/Փոքրիկ_Իշխանը_ բառապաշառ.pdf&quot;&gt;բառապաշառ&lt;/a&gt;)&lt;/li&gt;
