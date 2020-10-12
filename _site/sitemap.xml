@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/about</loc>
-<lastmod>2020-09-26T18:00:11-07:00</lastmod>
+<lastmod>2020-10-11T19:52:20-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/search</loc>
-<lastmod>2020-09-26T18:00:11-07:00</lastmod>
+<lastmod>2020-10-11T19:52:20-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/2017/11/17/%D5%A1%D6%80%D5%A4%D5%AB-%D5%B0%D5%A1%D5%B5-%D5%A3%D6%80%D5%A1%D5%AF%D5%A1%D5%B6%D5%B8%D6%82%D5%A9%D5%AB%D6%82%D5%B6-%D5%A1</loc>
@@ -47,6 +47,10 @@
 <url>
 <loc>http://localhost:4000/2020/10/01/%D6%83%D5%B8%D6%84%D6%80%D5%AB%D5%AF-%D5%AB%D5%B7%D5%AD%D5%A1%D5%B6%D5%A8-%D5%A1</loc>
 <lastmod>2020-10-01T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2020/10/15/%D5%A1%D5%B6%D5%AB-%D5%B0%D5%B8%D5%BE%D5%A1%D5%B6%D5%B6%D5%AB%D5%BD%D5%B5%D5%A1%D5%B6</loc>
+<lastmod>2020-10-15T00:00:00-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/2020-10-03-%D5%93%D5%B8%D6%84%D6%80%D5%AB%D5%AF-%D4%BB%D5%B7%D5%AD%D5%A1%D5%B6%D5%A8/</loc>
