@@ -4,13 +4,38 @@
  <title>Թէյենք</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-10-24T20:57:30-07:00</updated>
+ <updated>2020-10-24T21:24:53-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Ենովք Լազեան</title>
+   <link href="http://localhost:4000/2020/10/29/%D5%A5%D5%B6%D5%B8%D5%BE%D6%84-%D5%AC%D5%A1%D5%A6%D5%A5%D5%A1%D5%B6"/>
+   <updated>2020-10-29T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2020/10/29/Ենովք-Լազեան</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;Ինչ&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/files/Ենովք%20Լազեան/Տոկալի՞ք%20Է%20Որ%20Տոկաս.pdf&quot;&gt;«Տոկալի՞ք Է Որ Տոկաս» - Ենովք Լազեան&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.hamazkayin.com/pakin-am/&quot;&gt;«ԲԱԳԻՆ 2020 Թիւ 1»-էն&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Երբ&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Հինգշաբթի, Հոկտեմբեր 29ին, ժամը 5ին (PST)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ուր&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://meet.google.com/aom-tvru-fqg&quot;&gt;Google Meet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Անի Հովաննիսյան</title>
