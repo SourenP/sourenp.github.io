@@ -4,7 +4,7 @@
  <title>Թէյենք</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-10-11T19:52:20-07:00</updated>
+ <updated>2020-10-24T20:57:30-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -30,8 +30,8 @@
 &lt;p&gt;&lt;strong&gt;Ուր&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://calendar.google.com/event?action=TEMPLATE&amp;amp;tmeid=MGplaDMxMjJ2dHQ5cXA2N2RldmZmOHNpajEgY19qcGh2dWJmOTVzbzdxOG00M2lmY2gyczFsa0Bn&amp;amp;tmsrc=c_jphvubf95so7q8m43ifch2s1lk%40group.calendar.google.com&quot;&gt;Calendar Event&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;meet.google.com/aom-tvru-fqg&quot;&gt;Google Meet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://calendar.google.com/calendar/u/0?cid=Y19qcGh2dWJmOTVzbzdxOG00M2lmY2gyczFsa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&quot;&gt;Calendar&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://meet.google.com/aom-tvru-fqg&quot;&gt;Google Meet&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
  </entry>
